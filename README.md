@@ -15,9 +15,10 @@ auxiliar na criação de algoritmos em Python.
 - Fatorial
 - Número Primo
 
+## 👨‍💻 Autor
+Seu Nome - [GitHub](https://github.com/eduardadias15)
+
 ## ▶️ Como executar
 ```bash
 python algoritmos.py
 
-## 👨‍💻 Autor
-Seu Nome - [GitHub](https://github.com/eduardadias15)
