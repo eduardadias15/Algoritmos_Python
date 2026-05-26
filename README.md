@@ -16,7 +16,7 @@ auxiliar na criação de algoritmos em Python.
 - Número Primo
 
 ## 👨‍💻 Autor
-Seu Nome - [GitHub](https://github.com/eduardadias15)
+Eduarda Dias (https://github.com/eduardadias15)
 
 ## ▶️ Como executar
 ```bash
